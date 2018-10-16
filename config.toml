@@ -1,0 +1,115 @@
+baseurl = "http://www.madicetea.me"
+title = "Personal Webpage"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+	
+[params]
+	avatarurl = "images/avatar.jpg"	
+	favicon_32 = "images/favicon-32x32.png"
+	favicon_16 = "images/favicon-16x16.png"
+	
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/madicetea/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/mrlogicalalex/"
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope-open fa-2x"
+    weight = 3
+    url = "mailto:madicetea@posteo.jp"
+[[params.social]]
+    name = "Resume"
+    icon = "far fa-file-pdf fa-2x"
+    weight = 4
+	url = "resume/Wiegman_2018.10_Resume.pdf"
+[[params.social]]
+    name = "Location"
+    icon = "fas fa-map-marker-alt fa-2x"
+    weight = 5
+	url = "https://www.google.com/maps/place/東京大学駒場キャンパス/@35.6599007,139.6824167,17z"	
+	
+	
+[languages]
+    [languages.en]
+        languagename = "English"
+        title = "Welcome to my page"
+
+        [languages.en.params]
+		author = "Alex W. (T.)"
+		info = "4th year University Student. My passions are Web Development, Software Engineering, and Cybersecurity."
+		description = "Alex's personal website"
+		keywords = "personal, resume, webdev, network, opsec, Python, TensorFlow"
+
+		footercontent = "Work in Progress. Copyright MadIcetea. 2018-"
+
+		hidecredits = true
+		hidecopyright = true
+
+		rtl = false
+		math = false
+
+        [languages.en.menu]
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2.0
+        url = "/posts/"
+		
+		[[languages.en.menu.main]]
+		name = "Contact Me"
+        weight = 3.0
+        url = "/contact/"
+
+    [languages.ja]
+        languagename = "日本語"
+        title = "私のホームページへようこそ"
+
+        [languages.ja.params]
+			author = "谷口 (Taniguchi) アレックス"
+			info = "大学4年生。 ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
+			description = "アレックスのホームページ"
+			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, テンサーフロー"
+			footercontent = "誠にすみませんが、現在、ページにバグが多く生じております。 著作権あり、 「MadIceTea」から許可なし無断転載を禁じる。 2018-"
+
+			hidecredits = true
+			hidecopyright = true
+
+			rtl = false
+			math = false
+
+        [languages.ja.menu]
+
+            [[languages.ja.menu.main]]
+            name = "私について"
+            weight = 1.0
+            url = "/ja/about/"
+
+			[[languages.en.menu.main]]
+			name = "Blog"
+			weight = 2.0
+			url = "ja/posts/"
+			
+			[[languages.ja.menu.main]]
+			name = "連絡"
+			weight = 3.0
+			url = "/ja/contact/"
