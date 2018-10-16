@@ -1,4 +1,4 @@
-baseurl = "http://www.madicetea.me"
+baseurl = "https://www.madicetea.me"
 title = "Personal Webpage"
 theme = "coder"
 languagecode = "en"
