@@ -1,4 +1,4 @@
-
+**/themes/
 demo/
 .hugo/*
 !.hugo/version
