@@ -85,7 +85,7 @@ pygmentscodefencesguesssyntax = true
         title = "私のホームページへようこそ"
 
         [languages.ja.params]
-			author = "谷口 (Taniguchi) アレックス"
+			author = "谷口 アレックス"
 			info = "大学4年生。 ウェブ・ソフト・システムズ開発者、サイバーセキュリティ。"
 			description = "アレックスのホームページ"
 			keywords = "パーソナル, 履歴書, ウェブ, ネットワーク, 開発, サイバーセキュリティ, パイソン, テンサーフロー"
