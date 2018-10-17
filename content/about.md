@@ -7,7 +7,7 @@ Alex is a 4th year undergraduate researcher studying at the Univeristy of Tokyo,
 
 He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, and family.
 
-If he's not working on his [thesis research](https://github.com/MadIceTea/LIDA), or in one of his part-time jobs on-camups, he often can be found studying for IT Certifications. (Or, simply resting!) 
+If he's not working on his [thesis research](https://github.com/MadIceTea/LIDA), or in one of his on-campus [part-time jobs](http://www.gfd.c.u-tokyo.ac.jp/), he often can be found studying for IT Certifications. (Or, simply resting!) 
 
 He works on a variety of projects including:
 
