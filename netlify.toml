@@ -28,3 +28,11 @@ HUGO_VERSION = "0.49.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+http://madicetea.com/* https://www.madicetea.me/:splat 301!
+https://madicetea.com/* https://www.madicetea.me/:splat 301!
+http://www.madicetea.com/* https://www.madicetea.me/:splat 301!
+https://www.madicetea.com/* https://www.madicetea.me/:splat 301!
+http://madicetea.me/* https://www.madicetea.me/:splat 301!
+https://madicetea.me/* https://www.madicetea.me/:splat 301!
