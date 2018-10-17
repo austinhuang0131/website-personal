@@ -1,29 +1,31 @@
 +++
-title = "About Hugo"
+title = "About Alex"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Alex is a 4th year undergraduate researcher studying at the Univeristy of Tokyo, Komaba campus.
 
+He enjoys cats, the JPOP group Perfume, TensorFlow neural network projects, Thinkpads, and family.
 
-It makes use of a variety of open source projects including:
+If he's not working on his [thesis research](https://github.com/MadIceTea/LIDA), or in one of his part-time jobs on-camups, he often can be found studying for IT Certifications. (Or, simply resting!) 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+He works on a variety of projects including:
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+* [Land Image-Data Assessment (Thesis, above)](https://github.com/madicetea/LIDA)
+* [A SUICA/PASMO reading Android Application (in Alpha)](https://github.com/madicetea/balanceic)
+* [In-Development ThinkpadsForSale Reddit Bot](https://github.com/madicetea/thinkpadsforsalebot)
+* [PEAK Student Council Website](https://github.com/peakstudentcoucil/website-prod)
+
+Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea), connect on [Reddit](https://reddit.com/u/madicetea), and contribute on [GitHub](https://github.com/madicetea).
 
 ## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
+This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/).
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+The 'coder' theme was ued to make this website, and various members of the Engineering Students Discord server helped debug some early issues. Many thanks to them all.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Contact
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/madicetea/website-personal/issues/new) or [ask me by email](mailto:madicetea@posteo.jp).
 
 Thanks for reading!
