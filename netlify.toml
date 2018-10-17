@@ -37,13 +37,13 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
  from = "http://madicetea.com/*"
- to = "https://www.madicetea.me/:splat"
+ to = "https://www.madicetea.com/:splat"
  status = 301
  force = true
 
 [[redirects]]
  from = "https://madicetea.com/*"
- to = "https://www.madicetea.me/:splat"
+ to = "https://www.madicetea.com/:splat"
  status = 301
  force = true
  
