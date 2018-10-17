@@ -22,7 +22,7 @@ Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea)
 
 This site was made with the static-website generator [Hugo](http://gohugo.io/), which is built in [Go](http://golang.org/).
 
-The 'coder' theme was ued to make this website, and various members of the Engineering Students Discord server helped debug some early issues. Many thanks to them all.
+The ['coder' theme](https://themes.gohugo.io/hugo-coder/) was ued to make this website, and various members of the ['Engineering Students' Discord server](https://discord.gg/EngineeringStudents) helped debug some early issues. Many thanks to them all.
 
 ## Contact
 
