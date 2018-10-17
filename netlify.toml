@@ -29,6 +29,12 @@ HUGO_VERSION = "0.49.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+
 [[redirects]]
  from = "http://madicetea.com/*"
  to = "https://www.madicetea.me/:splat"
