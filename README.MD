@@ -1,6 +1,6 @@
 Thanks for visiting the source code repositiory for my website.
 
-The site was built from my University campus in Tokyo as a part of a self-driven project under the global initiative 'Hacktoberfest.'
+The site was built from my University campus in Tokyo as a part of a self-driven Hackathon-type project.
 As with most of my hack projects, I  choose something that would be of use to my near-future - as I will soon be job-searching, I decided to make a website to introduce myself.
 
 As of the first writing of this file, I have finished setting my DNS for both www and non-www, and for the ME and COM TLDs.
