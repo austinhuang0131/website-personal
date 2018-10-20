@@ -12,9 +12,9 @@ If he's not working on his [thesis research](https://github.com/MadIceTea/LIDA),
 He works on a variety of projects including:
 
 * [Land Image-Data Assessment (Thesis, above)](https://github.com/madicetea/LIDA)
-* [A SUICA/PASMO reading Android Application (in Alpha)](https://github.com/madicetea/balanceic)
+* [A SUICA/PASMO reading Android Application (in Alpha)](https://github.com/madicetea/SuicaPasmoReader)
 * [In-Development ThinkpadsForSale Reddit Bot](https://github.com/madicetea/thinkpadsforsalebot)
-* [PEAK Student Council Website](https://github.com/peakstudentcoucil/website-prod)
+* [PEAK Student Council Website](https://github.com/peakstudentcouncil/website-prod)
 
 Learn more about his activities on [LinkedIn](https://linkedin.com/in/madicetea), connect on [Reddit](https://reddit.com/u/madicetea), and contribute on [GitHub](https://github.com/madicetea).
 
